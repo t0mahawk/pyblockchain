@@ -2,18 +2,18 @@ pyblockchain
 ============
 
 python library for using the blockchain.info wallet api - https://blockchain.info/api
-----
 
 
 
-def CreateDepositeAddress(recvAddr, shared='false', callback=''):
-----
+
+def CreateDepositeAddress:
+
 https://blockchain.info/api/api_receive
 
 
 	
 class Wallet:
-----
+
 https://blockchain.info/api/blockchain_wallet_api
 
 
