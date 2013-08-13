@@ -27,3 +27,7 @@ https://blockchain.info/api/blockchain_wallet_api
 	def NewAddress(self, label = ''):
 	def SendPayment(self, toaddr, amount , fromaddr = '', shared = 0, fee = 0.0000, note = ''):
 	def SendManyPayment(self, txs = {} , fromaddr = '', shared = 0, fee = 0.0000, note = ''):
+
+
+
+Donations: 1pbcic79jyAdAiisp5crN5C1iJmRq4aCM
